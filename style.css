@@ -1,6 +1,6 @@
 body {
 
-	background-image: url("http://hdwallpaperia.com/wp-content/uploads/2013/11/Game-Backgrounds-Wallpaper.jpg");
+	background-image: url("http://d2rormqr1qwzpz.cloudfront.net/photos/2012/11/26/41646-serenity.jpg");
     background-size: cover;
     background-position: center center;
 	font-family: monospace;
@@ -15,8 +15,8 @@ body {
 }
 
 .splashTitle {
-	color: #fff;
-    font-size: 8em;
+	color: #0B0B61;
+    font-size: 5em;
     text-transform: uppercase;
     text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
 }
