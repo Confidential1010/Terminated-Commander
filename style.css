@@ -2,7 +2,6 @@ body {
 
 	background-image: url("http://d2rormqr1qwzpz.cloudfront.net/photos/2012/11/26/41646-serenity.jpg");
     background-size: cover;
-    background-position: center center;
 	font-family: monospace;
 
 }
@@ -19,19 +18,19 @@ body {
     font-size: 5em;
     text-transform: uppercase;
     text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+    position:relative;
+    top:70px;
 }
 
 .button {
-	border: 5px solid #383838;
-    color: #383838;
-    padding: 20px 50px;
+    color: #08088A;
     font-size: 5em;
     text-decoration: none;
-    background-color: #abc;
-    box-shadow: 15px 15px 80px #555;
+    width:10px;
+    height:20px;
 }
   a.button:hover {
-    background-color: #383838;
+    
     color: #abc;
   }
 
@@ -43,4 +42,22 @@ body {
 	background-image: url("img/exploreHome1.jpg");
 	background-position: bottom center;
 
+}
+
+#start{
+    width:10px;
+    height:10px;
+    position:relative;
+    top:200px;
+    
+}
+
+#will{
+   width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 55%;
+    right: 55%;
+}
+    
 }
