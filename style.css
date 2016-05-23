@@ -40,8 +40,7 @@ body {
 
 #exploreBody {
 	background-image: url("img/exploreHome1.jpg");
-	background-position: bottom center;
-
+	 background-size: cover;
 }
 
 #start{
