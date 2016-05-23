@@ -1,5 +1,6 @@
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
+<head>
 <script src="jquery-1.11.3.js"></script>
 <script src="gamedev.js"></script>
 </head>
