@@ -63,7 +63,7 @@ body {
     
 }
 body{
-	background: #000;
+	background-image:url("img/Background2.png");
 	color: blue;
 }
 
@@ -81,9 +81,6 @@ p{
 @keyframes type{
 	from{ width: 0;}
 }
-/*looks like something is wrong, Fixed!!! */
-
-/*let's make it more realistic, so I added span tag, let's animate span*/
 span{
 	animation: blink 1s infinite;
 }
