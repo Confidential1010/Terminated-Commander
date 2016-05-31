@@ -41,43 +41,45 @@ body {
 #exploreBody {
 	background-image: url("img/Background2.png");
 
-		body{
-	color: white;
-	p{
 	font-size: 14px;
-	margin: 30px;
-	white-space:nowrap;
+	margin: 30px; white-space:nowrap;
 	overflow: hidden;
 	width: 30em;
-	animation: type 5s steps(50, end) 1;	
+	
+	color: white;	
 }
 
-@keyframes type{
-	from{ width: 0;}
-}
 #blah{
 	
-	width:100px;
-	height:25px;
+	width:700px;
+	height: 400px;
+	position:relative;
+	left:650px;
+	top:200px;
+	color: #ee7600;
+
+}
+#pone{	
+	font-size: 13px;
 	position: absolute;
-	margin-top: 1500px;
-	background-color: red;
-
+	color: #ee7600;
 }
-#pone{
-	
-	font-size: 100px;
+#back{
+    width:700px;
+	height: 400px;
 	position: absolute;
-	margin-top: 1500px;
-	color: white;
+    margin-top: 510px;
+    margin-left: 120px;
+	color: #ee7600;
 }
 
-@keyframes blink{
-	to{ opacity: .0;}
+#confidential{
+font-size: 12px;
+position:absolute;
+color: #ee7600;
 }
 
 
-}
 
 #start{
     width:10px;
